@@ -1,13 +1,11 @@
 {
   "data":[
-    {
-      "serverId":"KJUJ1658JY0LL",
+    "KJUJ1658JY0LL":{
       "serverName":"CYW_SERVER",
       "serverIp":"localhost",
       "serverPort":30120
     },
-    {
-      "serverId":"10PJ1S58JY0K9",
+    "10PJ1S58JY0K9":{
       "serverName":"CYW_SERVER2",
       "serverIp":"localhost",
       "serverPort":30120
